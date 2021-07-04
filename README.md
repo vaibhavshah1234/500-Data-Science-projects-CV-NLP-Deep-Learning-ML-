@@ -1,4 +1,4 @@
-## 500 + 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗟𝗶𝘀𝘁 𝘄𝗶𝘁𝗵 𝗰𝗼𝗱𝗲
+## 500 + Data Science Projects ( ML, Deep Learning, NLP, Computer Vision)
 
 *500 AI Machine learning Deep learning Computer vision NLP Projects with code*
 
