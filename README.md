@@ -1,8 +1,8 @@
 ## 500 + Data Science Projects ( ML, Deep Learning, NLP, Computer Vision)
 
-*500 AI Machine learning Deep learning Computer vision NLP Projects with code*
+*500 + Data Science, Machine learning ,Deep learning, Computer vision, NLP, Projects with code*
 
-Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
+Follow me on LinkedIn : https://www.linkedin.com/in/vaibhav-shah-704104212/
 
 ***This list is continuously updated.*** - You can take pull request and contribute. All Links are tested and working fine. Please ping if any link doesn't work.
 
@@ -90,7 +90,7 @@ Follow me on LinkedIn : https://www.linkedin.com/in/ashishpatel2604/
 | 80    | Auto Deep learning Project                                   | https://bit.ly/3gyLEEi              |
 | 81    | 180 Machine learning Project                                 | https://bit.ly/3gx7esN              |
 | 82    | Amazing Hackthon Project Collection                          | https://bit.ly/35gPz3f              |
-
+| 83    | Python And ML projects From 0 to Advance                     | https://www.datasciencee.org/post/python-and-ml-projects |
 ***More Projects list is coming...!!!***
 
 ---
